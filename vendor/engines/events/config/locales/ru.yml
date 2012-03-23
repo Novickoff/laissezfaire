@@ -1,0 +1,25 @@
+ru:
+  shared:
+    admin:
+      image_picker:
+        image: изображение
+  plugins:
+    events:
+      title: События
+  admin:
+    events:
+      actions:
+        create_new: Добавить новое событие
+        reorder: Упорядочить события
+        reorder_done: Завершено упорядочение событий
+      records:
+        title: События
+        sorry_no_results: Извините! Результатов не найдено.
+        no_items_yet: Ещё нет событий. Нажмите "Добавить новое событие" чтобы добавить ваше первое событие.
+      event:
+        view_live_html: Посмотреть это событие живьём <br/><em>(откроется в новом окне)</em>
+        edit: Редактировать это событие
+        delete: Удалить это событие навсегда
+  events:
+    show:
+      other: Другие события

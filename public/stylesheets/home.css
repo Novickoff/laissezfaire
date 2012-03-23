@@ -1,0 +1,13 @@
+/*
+  Override default refinery homepage styles here.
+  These only apply to the homepage of your site.
+*/
+
+#body_content, #side_body_content, #middle_body_content {
+  float: left;
+  width: 30%;
+  background: white;
+  color: #333;
+  padding: 20px;
+}
+
